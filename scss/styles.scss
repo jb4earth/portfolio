@@ -735,7 +735,7 @@ footer {
 #strengths {
     padding: 50px 15px;
     text-align: center;
-    background: lighten($base-color, 35%);
+    background: $background;
 
     h2 {
         color: $heading;
@@ -999,7 +999,7 @@ footer {
     }
 
     .project-image {
-        display: none;
+        float: left;
     }
 
     .project-info {
@@ -1038,4 +1038,10 @@ footer {
         }
     }
 
+}
+.profile_pic{
+  padding: 15px;
+  max-width: 50vw;
+  min-width: 20vw;
+  padding-top: 25px;
 }
