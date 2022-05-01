@@ -457,11 +457,8 @@ footer{
     max-width:282px
 }
 .project-info{
-    position:absolute;
-    top:50%;
-    transform:translateY(-50%);
-    margin-left:300px;
-    padding:15px
+    position:relative;
+    padding:30px
 }
 .project-info h3{
     font-size:1.5em;
