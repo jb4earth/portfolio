@@ -1,4 +1,5 @@
-## checkout jb4earth.github.io/portfolio
+# JB's Portfilio 
+jb4earth.github.io/portfolio
 
 # Credits
 
