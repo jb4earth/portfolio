@@ -1,8 +1,8 @@
-# a forked portfolio
+## checkout jb4earth.github.io/portfolio
 
 # Credits
 
-forked from https://ryanfitzgerald.github.io/devportfolio/ in 2018 (what feels like a lifetime ago)
+This webpage was forked from https://ryanfitzgerald.github.io/devportfolio/ in 2018 (what feels like a lifetime ago)
 
 ## Features
 
