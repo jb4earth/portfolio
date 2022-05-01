@@ -745,6 +745,7 @@ footer{
     padding:15px;
     max-width:50vw;
     min-width:20vw;
-    padding-top:25px
+    padding-top:25px;
+    border-radius: 50%;
 }
  
