@@ -664,10 +664,7 @@ footer {
 }
 
 .project-info {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    margin-left: 300px;
+    position: relative;
     padding: 15px;
 
     h3 {
