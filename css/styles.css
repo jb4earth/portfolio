@@ -159,12 +159,13 @@ footer{
 .social li{
     display:inline-block;
     font-size:1.25em;
-    list-style:none
+    list-style:none;
+    color: #000000;
 }
 .social a{
     display:block;
-    color:#74808a;
-    padding:10px
+    padding:10px;
+    color: #000000;
 }
 .social a:hover{
     color:#1789FC
