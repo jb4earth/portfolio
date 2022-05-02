@@ -146,10 +146,11 @@ footer{
     text-align:center
 }
 .top i{
-    color:#74808a
+    color:#000000
 }
 .social{
-    text-align:right
+    text-align:right;
+    color: #000000;
 }
 .social ul{
     margin:5px 0 0 0;
