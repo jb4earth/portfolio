@@ -454,7 +454,9 @@ footer{
     float:left
 }
 .project-actual-image{
-    max-width:282px
+    max-width:282px;
+    border-radius: 10px;
+    padding: 22px;
 }
 .project-info{
     position:relative;
