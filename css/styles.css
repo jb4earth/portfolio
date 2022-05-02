@@ -130,7 +130,7 @@ footer{
 }
 .copyright p{
     margin:0;
-    color:#74808a
+    color:#000000
 }
 .top{
     text-align:center
@@ -420,7 +420,7 @@ footer{
     float:right
 }
 .education-block h4{
-    color:#74808a;
+    color:#000000;
     clear:both;
     font-weight:500;
     margin:0 0 15px 0
@@ -504,7 +504,8 @@ footer{
     background:#e4e4ea;
     list-style:none;
     cursor:default;
-    font-size:1.2em
+    font-size:1.2em;
+    border-radius: 3px;
 }
 #strengths{
     padding:50px 15px;
